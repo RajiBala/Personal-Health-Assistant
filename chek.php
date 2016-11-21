@@ -1,0 +1,1 @@
+wamp server 2.5 - appache 2.4.9 - mysql-5.6.17-php5.5.12-64b
